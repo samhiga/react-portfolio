@@ -12,7 +12,7 @@ function Project() {
           <div className="projects">
             <div className="project-info">
               <div className="project-img">
-                <a href="">
+                <a href="a">
                   <img
                     // src={/* Image URL */}
                     className="my-2"

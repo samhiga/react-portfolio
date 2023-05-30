@@ -12,7 +12,7 @@ function Portfolio() {
           <div className="repo">
             <div className="repo-info">
               <div className="repo-img">
-                <a href="">
+                <a href="a">
                   <img
                     // src={/* Image URL */}
                     className="my-2"
