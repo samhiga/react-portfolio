@@ -1,8 +1,8 @@
 # react-portfolio
 
 ## Technology Used 
-
 | Technology Used         | Resource URL           |  
+| ------------- |:-------------:| 
 | React    | [https://react.dev/](https://react.dev/) | 
 | CSS     | [https://developer.mozilla.org/en-US/docs/Web/CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)      |   
 | Git | [https://git-scm.com/](https://git-scm.com/)     |    
