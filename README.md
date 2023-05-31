@@ -9,11 +9,11 @@
 
 ## Description 
 
-[Visit the Deployed Site](https://samhiga.github.io/my-portfolio/)
+[Visit the Deployed Site](https://samhiga.github.io/react-portfolio/)
 
-This webpage provides information me, including a short bio, my projects, and how to get in touch with me. Intended for view and use by potential employers
+This webpage provides information me, including a short bio, my projects, how to get in touch with me, and a downloadable Resume. Intended for view and use by potential employers.
 
-## Table of Contents (Optional)
+## Table of Contents 
 
 * [Usage](#usage)
 * [Learning Points](#learning-points)
@@ -27,12 +27,14 @@ This webpage provides information me, including a short bio, my projects, and ho
 
 ## Usage 
 
-The website is to be used to inquire more information on me for potential employers to see if I would be a good fit for thier company. They can view my bio, my work, and my contact information if they wish to learn more. the navigaion bar at the top can direct them to what they are looking for. My contact info is linked as well so they can email or call me, as well as view my Linkedin and Github accounts.
+The website is to be used to inquire more information on me for potential employers to see if I would be a good fit for thier company. They can view my bio, my work, and my contact information if they wish to learn more. the navigaion bar at the top can direct them to what they are looking for. A contact form is there if someone wants to get in touch with me, as well as view my Linkedin and Github accounts.
+
+<img src="src/assets/img/portflio.jpeg" width=400></br>
 
 
 ## Learning Points 
 
-Through this project, I was able to understand flexboxes much more, as well as lot new ideas for how to style them and other CSS aspects. It has given me more confidence in web development.
+I got a better understanding of how react works with hands on experience.
 
 
 ## Author Info
