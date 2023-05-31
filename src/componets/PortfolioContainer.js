@@ -5,7 +5,7 @@ import Contact from "./Contact";
 import Portfolio from "./Portfolio";
 import Resume from "./Resume";
 import Footer from "./Footer";
-import Nav from "./Navigation";
+// import Nav from "./Navigation";
 
 
 function PortfolioContainer() {
@@ -30,13 +30,14 @@ function PortfolioContainer() {
 
 
   return (
-    <div>
-     
-      <nav currentTab={currentTab} handleTabChange={handleTabChange} />
-    
-      {renderTab()}
-    </div>
+    <>
+      <Header currentTab={currentTab} handleTabChange={handleTabChange} />
+      {/* <Nav currentTab={currentTab} handleTabChange={handleTabChange} /> */}
+      <main>{renderTab()}</main>
+      <Footer />
+    </>
   );
+
 }
 
 export default PortfolioContainer;

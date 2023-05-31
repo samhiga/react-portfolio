@@ -18,17 +18,8 @@ function Header(props) {
             ></Nav>
           </div>
         </header>
-      </section>
-      <section class="hero">
-        <div class="hero-cta">
-          
-
-          <h2>Welcome</h2>
-          <p>
-            I am a Full Stack Developer.
-          </p>
-        </div>
-      </section>
+      
+        </section>
     </div>
   );
 }
