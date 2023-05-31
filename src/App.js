@@ -1,15 +1,7 @@
 import React from 'react';
-import Header from './componets/Header';
-import Footer from './componets/Footer';
+import PortfolioContainer from './componets/PortfolioContainer';
 
 
-function App() {
-  return (
-    <div>
-      <Header />
-      <Footer />
-    </div>
-  );
-}
+const App = () => <PortfolioContainer />;
 
 export default App;

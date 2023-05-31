@@ -19,7 +19,7 @@
   "bugs": {
     "url": "https://github.com/samhiga/react-portfolio/issues"
   },
-  "homepage": "https://github.com/samhiga/react-portfolio#readme",
+  "homepage": "https://github.com/samhiga/react-portfolio",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^11.1.0",
