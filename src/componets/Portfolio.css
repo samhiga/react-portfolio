@@ -1,0 +1,47 @@
+.repo-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 1rem;
+  }
+  
+  .repo {
+    display: flex;
+    flex-direction: column;
+  }
+
+.repo-img {
+    position: relative; 
+    height: 300px; /* Adjust the height as per your preference */
+  overflow: hidden;
+  }
+
+  .repo-img img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+  }
+  
+  .repo-img .overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    display: none;
+    background-color: rgba(0, 0, 0, 0.8);
+    color: #fff;
+    padding: 1rem;
+    text-align: center;
+  }
+  
+  .repo-img:hover .overlay {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .repo-img .overlay h4,
+  .repo-img .overlay p {
+    margin: 0;
+  }
