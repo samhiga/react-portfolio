@@ -18,17 +18,6 @@ function Resume() {
           <span>Download My Resume</span>
         </a>
       </div>
-      <div className="column">
-        <p className="content is-medium">Skills</p>
-        <hr />
-        <ul>
-            <li>HTML, CSS, Javascript</li>
-            <li>JSON</li>
-            <li>React</li>
-            <li>Markdown</li>
-            <li>Git</li>
-        </ul>
-      </div>
     </div>
   );
 }
