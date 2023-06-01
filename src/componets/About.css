@@ -1,0 +1,37 @@
+.about-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    background-color: #5252a9;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 700px;
+    margin: 0 auto;
+  }
+  
+  .about-card hr {
+    width: 80%;
+    margin-top: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .about-card img {
+    width: 200px;
+    height: auto;
+    margin-top: 10px;
+  }
+  
+  .about-card .content {
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .about-card .content.is-italic {
+    font-style: italic;
+  }
+  
+  .about-card .content.is-medium {
+    font-weight: bold;
+  }

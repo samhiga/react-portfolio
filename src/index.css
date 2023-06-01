@@ -26,6 +26,11 @@
   
   header nav {
     margin: 7px 0;
+    background-color: #464694;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
   }
   
   header nav ul {
