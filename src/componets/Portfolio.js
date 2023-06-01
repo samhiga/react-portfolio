@@ -43,7 +43,8 @@ function Portfolio() {
                 </div>
                 <div className="job-text">
                 <ul>
-                    <a href="https://gymder-dv-sh-kp.herokuapp.com/profile/login">Live Site</a>
+                    <a className="portfolio-button"
+                    href="https://gymder-dv-sh-kp.herokuapp.com/profile/login">Gymder Live Site</a>
                   </ul>
                 </div>
               </div>
@@ -76,7 +77,8 @@ function Portfolio() {
                 </div>
                 <div className="job-text">
                 <ul>
-                    <a href="https://samhiga.github.io/emojify/">Live Site</a>
+                    <a className="portfolio-button"
+                    href="https://samhiga.github.io/emojify/">Emojify Live Site</a>
                   </ul>
                 </div>
               </div>
@@ -174,7 +176,8 @@ function Portfolio() {
                 </div>
                 <div className="job-text">
                   <ul>
-                    <a href="https://samhiga.github.io/weather-dashboard/">Live Site</a>
+                    <a className="portfolio-button"
+                    href="https://samhiga.github.io/weather-dashboard/">Weather Dashboard Live Site</a>
                   </ul>
                 </div>
               </div>

@@ -45,3 +45,24 @@
   .repo-img .overlay p {
     margin: 0;
   }
+
+  .portfolio-button {
+    padding: 10px 15px;
+    font-weight: normal;
+    font-size: 1.60vw;
+    text-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    border-radius: 15px;
+    -webkit-transition: all 1s ease;
+    -moz-transition: all 1s ease;
+    -o-transition: all 1s ease;
+    -ms-transition: all 1s ease;
+    transition: all 1s ease;
+    color: white;
+  }
+  
+  .portfolio-button:hover {
+    background: #0E5259;
+    color: #D5F2EA;
+    border-radius: 15px;
+    text-shadow: none;
+  }
