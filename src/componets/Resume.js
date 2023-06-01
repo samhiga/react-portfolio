@@ -1,4 +1,5 @@
 import React from "react";
+import resumePDF from "../assets/SamHigaResume.docx.pdf";
 
 function Resume() {
   return (
@@ -9,8 +10,8 @@ function Resume() {
 
         <a
           className="button is-primary"
-           href={process.env.PUBLIC_URL + "./assets/SamHigaResume.pdf"}
-          target="_blank" rel="noreferrer"
+          href={resumePDF}
+          download="SamHigaResume.pdf"
         >
           <span className="icon">
             <i className="fas fa-download"></i>
