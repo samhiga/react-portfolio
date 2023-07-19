@@ -4,7 +4,7 @@ import React from "react";
 function Footer() {
   return (
     <footer>
-      <h2>Made by Sam Higa</h2>
+      <h2>Made by Sam Higa with React</h2>
       <ul>
         <li>
           <a href="https://github.com/samhiga">GitHub</a>
