@@ -2,7 +2,7 @@ import React from "react";
 import "./Portfolio.css";
 import Gymder from "../assets/img/homepage.jpeg";
 import Emojify from "../assets/img/Emojify.jpg";  
-import TextEditor from "../assets/img/pwa.jpeg"; 
+import ParkApp from "../assets/img/parkapp.jpg"; 
 import Ecommerce from "../assets/img/commerce.jpeg";   
 import README from "../assets/img/README.jpeg";
 import Weather from "../assets/img/weather.jpeg";  
@@ -49,6 +49,35 @@ function Portfolio() {
                 </div>
               </div>
             </div>
+
+            <div className="repo">
+              <div className="repo-info">
+                <div className="repo-img">
+                  <a href="https://github.com/samhiga/park-app">
+                    <img
+                      src={ParkApp}
+                      className="my-2"
+                      style={{ width: "100%" }}
+                      alt="project"
+                    />
+                    <div className="overlay">
+                      <h4>ParkApp</h4>
+                      <p>
+                      ParkApp is a web application that allows users to rent out their parking spots and enables other users to find and rent available parking spots. It functions similarly to Airbnb but for parking spots. Users can list their parking spots for rent, set availability and pricing, and users looking for parking can search for available spots, make reservations, and pay securely through the platform.
+
+
+                      </p>
+                    </div>
+                  </a>
+                </div>
+                <div className="job-text">
+                <ul>
+                    <a className="portfolio-button"
+                    href="https://park-app.herokuapp.com/">ParkApp Live Site</a>
+                  </ul>
+                </div>
+              </div>
+            </div>
   
             <div className="repo">
               <div className="repo-info">
@@ -80,29 +109,6 @@ function Portfolio() {
                     <a className="portfolio-button"
                     href="https://samhiga.github.io/emojify/">Emojify Live Site</a>
                   </ul>
-                </div>
-              </div>
-            </div>
-
-            <div className="repo">
-              <div className="repo-info">
-                <div className="repo-img">
-                  <a href="https://github.com/samhiga/pwa-text-editor.git">
-                    <img
-                      src={TextEditor}
-                      className="my-2"
-                      style={{ width: "100%" }}
-                      alt="project"
-                    />
-                    <div className="overlay">
-                      <h4>Text Editor</h4>
-                      <p>
-                      This program is a text editor so users can enter thier notes and code snippets that could be used for later. This program can also be accesed and be fully functional without an internet conncetion allowing users to work offline as well.
-                      </p>
-                    </div>
-                  </a>
-                </div>
-                <div className="job-text">
                 </div>
               </div>
             </div>

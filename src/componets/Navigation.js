@@ -40,7 +40,7 @@ function Nav(props) {
             Projects
           </a>
         </li> */}
-        <li className="nav-item">
+        {/* <li className="nav-item">
           <a
             href="#contact"
             onClick={() => handleTabChange('Contact')}
@@ -49,7 +49,7 @@ function Nav(props) {
           >
             Contact
           </a>
-        </li>
+        </li> */}
         <li className="nav-item">
           <a
             href="#resume"

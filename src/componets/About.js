@@ -22,11 +22,8 @@ function About() {
         />
         <p className="content is-italic mt-4">About Me</p>
         <p className="content">
-          Graduate from UC Santa Barbara with a degree in Communication with
-          experience in marketing. However, I am strongly interested in Web
-          Development and Computer Science and am currently attending UC Berkeley's
-          Full-Stack Bootcamp in hopes of becoming a Full-Stack or Back-End
-          Developer. Please feel free to take a look at my Resume, Portfolio or reach out to me!
+        I am a graduate from UC Santa Barbara with a degree in Communication and a background in marketing. However, my passion lies in Web Development and Computer Science. I have recently completed the Full-Stack Certificate program at UC Berkeley Extension, where I gained comprehensive skills in both front-end and back-end development. I am proficient in JavaScript, React, CSS, HTML, and have experience working with APIs and MongoDB. I am now actively seeking a Full-Stack position where I can combine my technical expertise with my problem-solving abilities, teamwork skills, and curiosity to contribute to the development of innovative and impactful web applications.
+
         </p>
       </div>
       </div>

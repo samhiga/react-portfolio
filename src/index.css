@@ -72,7 +72,7 @@
     font-weight: bold;
     width: 100%;
     height: 100px;
-    position: sticky;
+    /* position: absolute bottom; */
     bottom: 0;
     display: flex;
     justify-content: space-around;

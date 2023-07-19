@@ -7,9 +7,9 @@ function Resume() {
     <div className="resume-container">
       <div className="resume-card">
         <div className="resume-content">
-          <p className="content is-medium">Resume</p>
+          <p className="content is-medium">Skills</p>
           <hr />
-          <p className="content">Please feel free to take a look at my Resume.</p>
+          <p className="content">HTML, React.js, MongoDB,  Mongoose ODM,  Apollo GraphQL,  MERN Stack, MySQL, JSON Web Token, Sequelize.js, Front-End Development,  HTML5, Unit Testing · Object-Oriented Programming (OOP) · Express.js,  Node.js, JSON · Fetch,  AJAX,  Server Side API, Web Services API, Bootstrap,  CLI, JavaScript, CSS, Git</p>
         </div>
         <div className="resume-download">
           <a

@@ -8,7 +8,6 @@
     padding-right: 10%;
   }
   
-  
   .contact-form input,
   .contact-form textarea {
     border: 1px solid #6c7145;
@@ -21,5 +20,4 @@
     margin-top: 5px;
     border-radius: 50px;
     background-color: rgba(85, 82, 57, 0.75);
-  
-  }
+}

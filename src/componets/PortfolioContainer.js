@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import Header from "./Header";
 import About from "./About";
-import Contact from "./Contact";
+// import Contact from "./Contact";
 import Portfolio from "./Portfolio";
 import Resume from "./Resume";
 import Footer from "./Footer";
@@ -16,9 +16,9 @@ function PortfolioContainer() {
     if (currentTab === "About") {
       return <About />;
     }
-    if (currentTab === "Contact") {
-      return <Contact />;
-    }
+    // if (currentTab === "Contact") {
+    //   return <Contact />;
+    // }
     if (currentTab === "Portfolio") {
       return <Portfolio />;
     }
